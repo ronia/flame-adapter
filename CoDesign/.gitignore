@@ -1,0 +1,10 @@
+CoDesign.ncb
+CoDesign.suo
+Debug
+Release
+*.user
+*.swp
+ComponentLib.h
+ComponentLib.tlb
+ComponentLib_i.c
+

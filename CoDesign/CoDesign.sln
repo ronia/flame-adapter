@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CoDesign", "CoDesign\CoDesign.vcproj", "{BFAAC7F7-7DF7-4067-8625-F052594B75DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAAC7F7-7DF7-4067-8625-F052594B75DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFAAC7F7-7DF7-4067-8625-F052594B75DD}.Debug|Win32.Build.0 = Debug|Win32
+		{BFAAC7F7-7DF7-4067-8625-F052594B75DD}.Release|Win32.ActiveCfg = Release|Win32
+		{BFAAC7F7-7DF7-4067-8625-F052594B75DD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
